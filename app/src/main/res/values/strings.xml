@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">In Class Login Project</string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter Password</string>
+    <string name="submit">Submit</string>
+
+</resources>
